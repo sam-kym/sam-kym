@@ -1,7 +1,7 @@
 # Hi there 👋
 # I am Samuel KImani
 ### How to Reach me
-  - 📧 Email: [Kimani Wangui](kimanifwangui@gmail.com)
+  - 📧 Email: [kimanifwangui@gmail.com](https://mail.google.com/)
   - 💼 LinkedIn: [Samuel Kimani](https://www.linkedin.com/in/kimani-samuel-kym?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
   - 🐦 Twitter: [Samuel](https://x.com/_sam_kym?t=PvRAh5ZKMC_4-dv6A2Hb0g&s=09)
 
